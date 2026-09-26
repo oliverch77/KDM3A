@@ -1,6 +1,6 @@
 # KDM3A analysis scripts
 
-R code for bulk differential expression, volcano plots, and single-cell signature scoring accompanying the KDM3A manuscript accepted by *Science Advances*.
+R code for bulk differential expression, volcano plots, and single-cell signature scoring accompanying the KDM3A manuscript
 
 ## Scripts
 
