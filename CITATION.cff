@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when using these analysis scripts."
+type: software
+title: "KDM3A differential expression and single-cell signature analysis"
+authors:
+  - family-names: "Chen"
+    given-names: "Hung-Jen"
+# Add the final publication DOI/year and repository URL when available.
+# Article author names and order are from the supplied revised manuscript.
+preferred-citation:
+  type: article
+  title: "H3K9 demethylase KDM3A potentiates interferon signaling and macrophage-driven inflammation in atherosclerosis"
+  journal: "Science Advances"
+  authors:
+    - family-names: "Siebeler"
+      given-names: "Ricky"
+    - family-names: "Chen"
+      given-names: "Hung-Jen"
+    - family-names: "Kuznetsova"
+      given-names: "Tatyana"
+    - family-names: "Neele"
+      given-names: "Annette E."
+    - family-names: "van der Velden"
+      given-names: "Saskia"
+    - family-names: "Gijbels"
+      given-names: "Marion J. J."
+    - family-names: "Griffith"
+      given-names: "Guillermo R."
+    - family-names: "van Roomen"
+      given-names: "Cindy P. A. A."
+    - family-names: "Prange"
+      given-names: "Koen H. M."
+    - family-names: "Boshuizen"
+      given-names: "Marieke C. S."
+    - family-names: "Seijkens"
+      given-names: "Tom T. P."
+    - family-names: "Palm"
+      given-names: "Kaylin C. A."
+    - family-names: "Mokry"
+      given-names: "Michal"
+    - family-names: "Lutgens"
+      given-names: "Esther"
+    - family-names: "Hoeksema"
+      given-names: "Marten A."
+    - family-names: "de Winther"
+      given-names: "Menno P. J."
